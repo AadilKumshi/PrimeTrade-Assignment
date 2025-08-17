@@ -1,3 +1,4 @@
+# Trader Behavior vs Market Sentiment
 
 ## 🔗 Notebook
 - [Colab Notebook 1](https://colab.research.google.com/drive/1yBr5v4hwkytRIKqerw0o8Lng6VPhb9KR?usp=sharing) – Main Analysis
