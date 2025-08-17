@@ -1,6 +1,11 @@
 # Trader Behavior vs Market Sentiment
+This project analyzes the relationship between **trader behavior** and **market sentiment** using real trading data from Hyperliquid and the Bitcoin Fear & Greed Index.  
+The goal is to uncover how factors such as **volume, profitability, risk-taking, and trading direction** align with or diverge from overall market sentiment.  
 
-## 🔗 Notebook
+By combining **exploratory analysis, statistical validation, and predictive modeling**, this project delivers both **technical insights** and **business-relevant conclusions**.  
+The findings not only highlight trading patterns under different sentiment conditions but also provide **strategic signals** that can support smarter decision-making in the Web3 trading space.
+
+##  Notebook
 - [Colab Notebook 1](https://colab.research.google.com/drive/1yBr5v4hwkytRIKqerw0o8Lng6VPhb9KR?usp=sharing) – Main Analysis
 
 ##  Data
