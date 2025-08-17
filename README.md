@@ -6,7 +6,7 @@ By combining **exploratory analysis, statistical validation, and predictive mode
 The findings not only highlight trading patterns under different sentiment conditions but also provide **strategic signals** that can support smarter decision-making in the Web3 trading space.
 
 ##  Notebook
-- [Colab Notebook 1](https://colab.research.google.com/drive/1yBr5v4hwkytRIKqerw0o8Lng6VPhb9KR?usp=sharing) – Main Analysis
+- [Colab Notebook](https://colab.research.google.com/drive/1yBr5v4hwkytRIKqerw0o8Lng6VPhb9KR?usp=sharing) – Main Analysis
 
 ##  Data
 - Historical Trader Data (Hyperliquid)
